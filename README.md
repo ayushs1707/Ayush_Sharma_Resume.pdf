@@ -1,6 +1,7 @@
 AYUSH SHARMA
 Plymouth, PA | (334) 820-5246 | sharma.ayush0505@gmail.com | sharma.ayush0505@gmail.com
-GitHub:
+GitHub:https://github.com/ayushs1707
+
 OBJECTIVE
 Computer Science undergraduate with hands-on experience in software development and cloud computing. Experienced in Python, Java, AWS IoT workflows, and database-backed systems. Seeking an IT, Cloud, or Software Engineering internship to apply real-world system design and troubleshooting skills.
 EDUCATION
