@@ -1,5 +1,5 @@
 AYUSH SHARMA
-Plymouth, PA | (334) 820-5246 | sharma.ayush0505@gmail.com | sharma.ayush0505@gmail.com
+Plymouth, PA | (334) 820-5246 | sharma.ayush0505@gmail.com
 GitHub:https://github.com/ayushs1707
 
 OBJECTIVE
