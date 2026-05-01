@@ -88,14 +88,6 @@ Currently seeking **Software Engineering / Cloud / IT internships** for 2025.
 - Applied modular GitHub workflows for team collaboration
 
 `Java` `Group Project`
-
----
-
-## 📊 GitHub Stats
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushs1707&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushs1707&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🎓 Education
